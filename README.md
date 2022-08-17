@@ -1,3 +1,0 @@
-# dotfiles
-
-Just. My. Dotfiles.
